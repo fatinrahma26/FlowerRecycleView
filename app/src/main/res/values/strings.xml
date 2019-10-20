@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FlowerRecycleView</string>
+
+    <string-array name="flower_name">
+        <item>Bunga Teratai</item>
+        <item>Bunga Anggrek</item>
+        <item>Bunga Matahari</item>
+        <item>Bunga Mawar</item>
+        <item>Bunga Melati</item>
+        <item>Bunga Sakura</item>
+
+    </string-array>>
+
+    <array name="flower_image">
+    <item>@drawable/b_teratai</item>
+    <item>@drawable/b_anggrek</item>
+    <item>@drawable/b_matahari</item>
+    <item>@drawable/b_mawar</item>
+    <item>@drawable/b_melati</item>
+    <item>@drawable/b_sakura</item>
+
+    </array>>
+
+</resources>
